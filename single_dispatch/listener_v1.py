@@ -8,7 +8,7 @@ if __name__ == '__main__':
     """
     listener = Listener()
 
-    update1 = status_update.PaidInPart(
+    update1 = status_update.PaidInFull(
         user_id='1',
         loan_id='1',
     )
